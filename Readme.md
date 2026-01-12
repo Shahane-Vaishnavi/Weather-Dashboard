@@ -210,26 +210,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
-
-## 🙏 Acknowledgments
-
-- [WeatherAPI.com](https://www.weatherapi.com/) for weather data
-- [Lucide Icons](https://lucide.dev/) for beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for styling utilities
-- [React](https://reactjs.org/) for the frontend framework
-
-## 📧 Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+Created with ❤️ by Vaishnavi Shahane
 
 ## 🔮 Future Enhancements
 
